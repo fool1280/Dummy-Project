@@ -68,3 +68,17 @@ div ul li a:hover {
     display: inline-block;
     margin: 4px 2px;
 }
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    background-color: #2B3240;
+    height: 53px;
+}
